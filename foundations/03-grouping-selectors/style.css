@@ -1,0 +1,14 @@
+.firstButton,
+.secondButton {
+    font-size: 28px;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif"
+}
+
+.firstButton {
+    background-color: black;
+    color: white;
+}
+
+.secondButton {
+    background-color: yellow;
+}
